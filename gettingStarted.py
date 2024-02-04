@@ -20,7 +20,7 @@ def welcome_assignment_answers(question):
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         return "No"
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
-        return int(2)
+        return int(1)
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
         return int(3)
     elif question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
