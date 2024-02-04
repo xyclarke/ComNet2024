@@ -12,7 +12,7 @@ def welcome_assignment_answers(question):
     elif question == "Is it possible to decode a message without a key? - Yes/No":
         return "No"
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
-        return "No"
+        return "Yes"
     elif question == "What is the SHA256 hashing value to the following message: 'NYU Computer Networking Fall 2023' - Use SHA256 hash generator and use the answer in your code":
         return "52a9b9b03b3e6113a89ae37772d20eee00d5fef678adbb1161dfd7a78c089684"
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
